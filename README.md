@@ -19,21 +19,21 @@ You can install the extension by loading it unpacked in developer mode.
 
 #$ Instructions:
 
-### 1. Click one of the releases on the right side of the page and download the downloader zip
+- 1. Click one of the releases on the right side of the page and download the downloader zip
 
-### 2. Unzip the zip in a safe storage location
+- 2. Unzip the zip in a safe storage location
 
-### 3. Open Extensions Page - Navigate to your browser's extensions page:
+- 3. Open Extensions Page - Navigate to your browser's extensions page:
 
 Chrome: chrome://extensions/
 
 Edge: edge://extensions/
 
-### 4. Enable Developer Mode. Toggle the Developer mode switch in the top-right corner of the page.
+- 4. Enable Developer Mode. Toggle the Developer mode switch in the top-right corner of the page.
 
-### 5. Load the Extension. Click the Load unpacked button and select the folder containing the extension's manifest.json file (foler named doujin-downloader).
+- 5. Load the Extension. Click the Load unpacked button and select the folder containing the extension's manifest.json file (foler named doujin-downloader).
 
-### 6. Pin to Toolbar. The extension should now appear in your browser's toolbar. Click the puzzle icon and pin Doujin Downloader for easy access.
+- 6. Pin to Toolbar. The extension should now appear in your browser's toolbar. Click the puzzle icon and pin Doujin Downloader for easy access.
 
 ## 🖱 Usage
 - Navigate to a supported doujin page (e.g. `nhentai.net/g/593007`).
