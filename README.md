@@ -19,17 +19,19 @@ You can install the extension by loading it unpacked in developer mode.
 
 #$ Instructions:
 
-### 1. Click the green Code button and select Download ZIP
+### 1. Click one of the releases on the right side of the page and download the downloader zip
 
-### 2. Open Extensions Page - Navigate to your browser's extensions page:
+### 2. Unzip the zip in a safe storage location
+
+### 3. Open Extensions Page - Navigate to your browser's extensions page:
 
 Chrome: chrome://extensions/
 
 Edge: edge://extensions/
 
-### 3. Enable Developer Mode. Toggle the Developer mode switch in the top-right corner of the page.
+### 4. Enable Developer Mode. Toggle the Developer mode switch in the top-right corner of the page.
 
-### 4. Load the Extension. Click the Load unpacked button and select the folder containing the extension's manifest.json file.
+### 4. Load the Extension. Click the Load unpacked button and select the folder containing the extension's manifest.json file (foler named doujin-downloader).
 
 ### 5. Pin to Toolbar. The extension should now appear in your browser's toolbar. Click the puzzle icon and pin Doujin Downloader for easy access.
 
