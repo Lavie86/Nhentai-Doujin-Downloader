@@ -31,9 +31,9 @@ Edge: edge://extensions/
 
 ### 4. Enable Developer Mode. Toggle the Developer mode switch in the top-right corner of the page.
 
-### 4. Load the Extension. Click the Load unpacked button and select the folder containing the extension's manifest.json file (foler named doujin-downloader).
+### 5. Load the Extension. Click the Load unpacked button and select the folder containing the extension's manifest.json file (foler named doujin-downloader).
 
-### 5. Pin to Toolbar. The extension should now appear in your browser's toolbar. Click the puzzle icon and pin Doujin Downloader for easy access.
+### 6. Pin to Toolbar. The extension should now appear in your browser's toolbar. Click the puzzle icon and pin Doujin Downloader for easy access.
 
 ## 🖱 Usage
 - Navigate to a supported doujin page (e.g. `nhentai.net/g/593007`).
