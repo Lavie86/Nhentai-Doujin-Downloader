@@ -1,4 +1,4 @@
-![Alternative text for the image](./icon)
+![Extension Icon](./icon.png)
 
 # 🖤 Doujin Downloader Extension
 ## Doujin Downloader is an open-source browser extension that makes downloading your favorite doujinshi from supported websites a breeze.
